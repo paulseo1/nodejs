@@ -1,0 +1,3 @@
+hello
+test
+it is a main text file
