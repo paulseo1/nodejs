@@ -1,0 +1,32 @@
+
+Running node-supervisor with
+  program 'test-server.js'
+  --watch '.'
+  --extensions 'node,js'
+  --exec 'node'
+
+Starting child process with 'node test-server.js'
+Watching directory '/home/pi/nodejs/nodejs/nodejs/ch7' for changes.
+Press rs for restarting the process.
+events.js:85
+      throw er; // Unhandled 'error' event
+            ^
+Error: EBADF, read
+    at Error (native)
+Server running at port 10015
+
+Running node-supervisor with
+  program 'test-server.js'
+  --watch '.'
+  --extensions 'node,js'
+  --exec 'node'
+
+Starting child process with 'node test-server.js'
+Watching directory '/home/pi/nodejs/nodejs/nodejs/ch7' for changes.
+Press rs for restarting the process.
+events.js:85
+      throw er; // Unhandled 'error' event
+            ^
+Error: EBADF, read
+    at Error (native)
+Server running at port 10015
